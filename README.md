@@ -27,9 +27,9 @@
 - DataGridViewAdd - Add to grid
 
 ## Database
-- MS-SQL: DESKTOP-J8D78AR\SQLEXPRESS, DB2026
-- MySQL: localhost (XAMPP), port 3306
-- Oracle: localhost:1521
+- MS-SQL
+- MySQL
+- Oracle
 
 ## How to Run
 1. Open project in Visual Studio
